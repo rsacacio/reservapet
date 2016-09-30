@@ -253,7 +253,7 @@
       <option name="presentableId" value="Default" />
       <updated>1475230241341</updated>
       <workItem from="1475230243484" duration="18000" />
-      <workItem from="1475230270690" duration="260000" />
+      <workItem from="1475230270690" duration="285000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'master' of https://github.com/rsacacio/reservapet&#10;&#10;# Conflicts:&#10;#&#9;.idea/reservapet.iml&#10;#&#9;.idea/workspace.xml&#10;#&#9;.slcache/.index&#10;">
       <created>1475230518026</created>
@@ -269,11 +269,18 @@
       <option name="project" value="LOCAL" />
       <updated>1475230528839</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Merge branch 'master' of https://github.com/rsacacio/reservapet&#10;&#10;# Conflicts:&#10;#&#9;.idea/reservapet.iml&#10;#&#9;.idea/workspace.xml&#10;#&#9;.slcache/.index&#10;">
+      <created>1475230534836</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1475230534836</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="278000" />
+    <option name="totallyTimeSpent" value="303000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
